@@ -1,2 +1,6 @@
 #include <iostream>
-std::cout<<"fucké";
+using namespace std;
+int main() {
+    cout << "hello world";
+    return 1;
+}
