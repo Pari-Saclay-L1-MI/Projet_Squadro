@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/MichaelKirsch/SFML_2D_BLUEPRINT" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gwnpj/Squadro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\victo\CLionProjects" />
