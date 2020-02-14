@@ -1,0 +1,17 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiUrl" value="git@gitlab.com:glaservictor/laby.git" />
+          <option name="repositoryUrl" value="gitlab.com" />
+        </GitlabServer>
+        <GitlabServer>
+          <option name="apiUrl" value="https://gitlab.com/glaservictor/laby.git" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="gitlab.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
